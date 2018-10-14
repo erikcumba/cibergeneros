@@ -8,6 +8,9 @@ Número de vehículos automorizados por clase en el año 2016 en el Ecuador
 paradise paper
 <div><iframe id="datawrapper-chart-Fg6uF" src="//datawrapper.dwcdn.net/Fg6uF/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Fg6uF"]={},window.datawrapper["Fg6uF"].embedDeltas={"100":530,"200":452,"300":426,"400":426,"500":400,"700":400,"800":400,"900":400,"1000":400},window.datawrapper["Fg6uF"].iframe=document.getElementById("datawrapper-chart-Fg6uF"),window.datawrapper["Fg6uF"].iframe.style.height=window.datawrapper["Fg6uF"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["Fg6uF"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Fg6uF"==b)window.datawrapper["Fg6uF"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
 
+grafico
+<div><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQy1bXUPrdp64SbjmXzfADWghlREwUJbFOL-4BIh3Wzum42Q0eaauLncRkgosrUozi_qMu-CpaYiXhq/pubchart?oid=1716558835&amp;format=interactive"></iframe></div>
+
 You can use the [editor on GitHub](https://github.com/erikcumba/cibergeneros/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
